@@ -1,6 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Gabriel-Damas)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 I am Vinicius Mafra 🦗,work with quality assurance, and I have experience in the gaming industry.💻
 
